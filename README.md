@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-[![Twitter Badge](https://img.shields.io/twitter/url?&label=Vishad%20Bhalodia&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fs0ap67)](https://twitter.com/s0ap67) 
 [![Linkedin Badge](https://img.shields.io/twitter/url?label=Vishad%20Bhalodia&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvishad-bhalodia)](https://www.linkedin.com/in/vishad-bhalodia/) 
 
 <a href="https://github.com/s0ap">
